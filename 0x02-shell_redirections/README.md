@@ -1,1 +1,1 @@
-Display the content of the /etc/passwd file
+0x02-shell_redirection
