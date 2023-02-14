@@ -1,1 +1,1 @@
-Task 1. Confused smiley
+Display the content of the /etc/passwd file
